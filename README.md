@@ -12,23 +12,23 @@ Software: HTML/CSS, JavaScript, Visual Studio Code 1.69.1, BootStrap 4.0.0
 This is the initial page. The user can re-initialize the page by clicking on the navbar at the top.
 ![image](https://user-images.githubusercontent.com/104685001/179957688-d9b191f3-5b6a-4a70-89a9-00ae9467b54d.png)
 
-Filtering by event date
+### Filtering by event date
 The user enters the desired date, the change is detected and the table is updated accordingly.
 ![image](https://user-images.githubusercontent.com/104685001/179957787-35a237e4-271e-4d55-806f-b9e135d691b6.png)
 
-Filtering by city
+### Filtering by city
 The user enters the desired city, the change is detected and the table is updated accordingly.
 ![image](https://user-images.githubusercontent.com/104685001/179957870-8227c081-37ab-40e7-8b35-4af58c12665e.png)
 
-Filtering by country
+### Filtering by country
 The user enters the desired country, the change is detected and the table is updated accordingly.
 ![image](https://user-images.githubusercontent.com/104685001/179957944-3ad545bb-c2e4-42a3-81bc-034cda1bf826.png)
 
-Filtering by state and shape
+### Filtering by state and shape
 The user enters the desired state and shape observed, the changes are detected and the table is updated accordingly.
 ![image](https://user-images.githubusercontent.com/104685001/179958099-e6047fcf-863a-443d-a477-dedbed835887.png)
 
-Summary
+## Summary
 Although more than 1 parameters can be entered simultaneously, major drawback of this design is the difficulty for the user to know what parameter to use for the filtering. However this can be easily rectified by:
 * Drop-down lists including all filter values in place of the input fields.
 * Automatic update of each list after a parameter is selected in any filter.
